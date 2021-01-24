@@ -1,4 +1,4 @@
-# ML-online-near-real-time-serving
+# Hands-on with ML serving pipelines
 
 ## Online serving near real-time
 
