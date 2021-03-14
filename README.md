@@ -11,7 +11,7 @@ Online inference is definitely more challenging than batch inference. Why? Due t
 **Validation**: offline and online via A/B testing
 
 ---
-## Advanced workshop: Azure Online Serving (near real time)
+## Advanced workshop: Azure Online Serving (near real-time)
 This workshop is WIP
 
 It will cover a real-life use case of deploying a machine learning model to Azure Functions with Python runtime and its troubleshooting.
